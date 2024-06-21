@@ -1,2 +1,2 @@
 # dummy-repo
-cool
+## cool repo
